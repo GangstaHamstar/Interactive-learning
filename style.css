@@ -1,0 +1,30 @@
+body {
+  background: green;
+}
+
+p {
+  font-size: 40px;
+  color: violet;
+}
+
+button {
+  padding: 30px;
+  font-size: 50px;
+}
+
+.girl {
+  color: purple;
+  background: black;
+}
+.boy {
+  color:pink;
+  background: blue;
+}
+.art {
+  width: 100%;
+  display: none;
+}
+.kiten{
+  width: 100%;
+   display: none;
+}
