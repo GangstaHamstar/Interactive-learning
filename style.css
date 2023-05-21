@@ -25,10 +25,11 @@ button {
   background: blue;
 }
 .art {
-  width: 100%;
-  display: none;
+    width: 300px;
+    display: none;
+    height: 400px;
 }
-.kiten{
-  width: 100%;
-   display: none;
+.kiten {
+    width: 200px;
+    display: none;
 }
